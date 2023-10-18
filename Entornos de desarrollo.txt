@@ -1,0 +1,7 @@
+Que he aprendido?
+
+-Metodologias agiles
+-Distintos IDEs
+-Que es un control de versiones
+-Comandos basicos de git
+-GitHub

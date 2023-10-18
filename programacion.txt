@@ -1,0 +1,9 @@
+Definición de algoritmo
+Lenguajes de programación
+Traductores de código
+Técnicas de programación
+Tipos de datos
+Expresiones
+Operadores
+Pseudocódigo
+Java
